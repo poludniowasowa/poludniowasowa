@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wojtek - no-code developer
 - 👀 I’m interested in learning front-end stuff, so I can support my no-code stack.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on no-code projects
 - 📫 wwozniak88@gmail.com
 
